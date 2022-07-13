@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi, I'm Anna 👾✨
+
+### 📼 About me 
+* 15yo
+* Brazilian 🟢🟡🔵
+* Systems Development (1/3)
 
 <!--
+### 📼 About me 
 **annaasz/annaasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
