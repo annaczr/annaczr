@@ -3,7 +3,7 @@
 ### 📼 Sobre mim
 * 15 aninhos
 * Brasileira 🟢🟡🔵
-* Desenvolvimento de Sistemas + EM (1/3)
+* Desenvolvimento de Sistemas + EM (0.5/3)
 
 <!--
 ### 📼 Sobre mim
