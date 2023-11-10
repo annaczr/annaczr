@@ -1,9 +1,9 @@
 ## Olá, eu sou a Anna 👾✨
 
 ### 📼 Sobre mim
-* 15 aninhos
+* 16 aninhos
 * Brasileira 🟢🟡🔵
-* Desenvolvimento de Sistemas + EM (0.5/3)
+* Desenvolvimento de Sistemas + EM (2/3)
 
 <!--
 ### 📼 Sobre mim
